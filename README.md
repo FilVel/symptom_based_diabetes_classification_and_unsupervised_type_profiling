@@ -1,2 +1,2 @@
-# symptom_based_diabetes_classification_and_unsupervised_type_profiling
+# Symptom-based Diabetes Classification and Unsupervised Type Profiling
 Project for a University Machine Learning course
