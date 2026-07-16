@@ -15,6 +15,3 @@ To ensure methodological rigor, data preparation is managed via an end-to-end sc
 
 ## Dataset
 https://www.kaggle.com/datasets/arshaprasad/diabetes-dataset/data
-
-### Slides
-The slides will be uploaded before the 16th of July
